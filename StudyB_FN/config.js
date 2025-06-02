@@ -1,5 +1,5 @@
 window.config = {
-    userID: 'jJxhZXSs2I20pfx3a',
-    serviceID: 'service_mnk1n1k',
-    templateID: 'template_kojhajf'
+    userID: 'ovfFI5vgYgZElcRGw',
+    serviceID: 'service_svpfi0i',
+    templateID: 'template_s213h8p'
   };
